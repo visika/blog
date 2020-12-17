@@ -1,0 +1,67 @@
+/* Freely inspired by Nineteen Quirky */
+@import url("https://overpass-30e2.kxcdn.com/overpass.css");
+
+/* Global colour variables */
+:root {
+    --main: #272822;
+    --lighter: #eaeaea;
+    --bg: #fafafa;
+}
+
+/* Remove the margin in all browsers. */
+body {
+    margin 0;
+    background-image: url("aesthetic.webp");
+    background-size: contain;
+    color: var(--main);
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-family: "Overpass", sans-serif;
+}
+
+@font-face{
+    font-family: 'JetBrains Mono';
+    src: url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-Regular.eot') format('embedded-opentype'),
+         url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-Regular.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-Regular.woff') format('woff'),
+         url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/JetBrainsMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p, li {
+    -webkit-font-feature-settings: "liga" on, "calt" on;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: 'JetBrains Mono';
+}
+
+html {
+    line-height: 1.15;
+}
+
+/* Pages */
+/* ----- */
+
+#page {
+    background: var(--bg);
+    margin: 1rem auto;
+    max-width: 48rem;
+    padding: 1rem 2.5rem;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,1);
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+p {
+    margin-bottom: 1.5em;
+}
+
+footer {
+    border-top: 1px solid var(--lighter);
+    padding: 1rem 0;
+    text-align: center;
+}
