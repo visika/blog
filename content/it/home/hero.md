@@ -15,17 +15,17 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "Know more"
+  label = "Su di me"
 	# Primary color
 	primary = true
 
 [[btn]]
   url = "#contact"
-  label = 'Contact me'
+  label = 'Contattami'
 
 +++
 
-# A theme to **express** your ideas.
+# Mariano Mollo.
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+Un sito minimalista per il mio profilo.
 
