@@ -10,7 +10,7 @@ paginate = 10
 theme = 'pico'
 # Title of the website is used for the meta tag title
 # and the square icon (not the favicon)
-title = 'Mollo Tutto'
+title = 'Mariano Mollo'
 
 [params]
 customCSS = [
@@ -88,11 +88,11 @@ weight = 10
 # url = "/blog/" 
 # weight = 20 
 
-[[menu.main]]
-identifier = "contact" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact" 
-weight = 30 
+# [[menu.main]]
+# identifier = "contact" # identifier is use for translations
+# pre = "" # pre is inserted before the translation (icons, image, etc)
+# url = "/#contact" 
+# weight = 30 
 
 # Syntax highlightning
 [markup.highlight]
@@ -121,11 +121,11 @@ weight = 0
 # weight = 2
 
 # Uncomment the following lines to add an italian translation.
-[languages.it]
-contentDir = 'content/it'
-languageCode = 'it'
-languageName = 'Italiano'
-weight = 3
+# [languages.it]
+# contentDir = 'content/it'
+# languageCode = 'it'
+# languageName = 'Italiano'
+# weight = 3
 
 # Uncomment the following lines to add an spanish translation.
 # [languages.es]
