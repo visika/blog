@@ -13,3 +13,4 @@ Spaced repetition.
 Aikido; archery.
 Quantum computing.
 HTML, CSS, not much JS.
+Check my [reading list](https://www.goodreads.com/user/show/28626037-mariano).
