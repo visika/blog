@@ -25,3 +25,7 @@ I volunteer at [Monachelle Community](https://www.monachelle.org),
 a common in the city of Pozzuoli, near Naples, Italy.
 I manage the full tech stack, from domain name registration to graphics design,
 from copywriting to social media management.
+I'm managing and promoting the fundraising campaing for the project,
+comprising raising funds to defend volunteers in court,
+and raising funds to regenerate the abandoned area.
+Discover more and donate on [Open Collective](https://opencollective.com/monachelle).
