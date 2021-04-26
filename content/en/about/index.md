@@ -29,3 +29,10 @@ I'm managing and promoting the fundraising campaing for the project,
 comprising raising funds to defend volunteers in court,
 and raising funds to regenerate the abandoned area.
 Discover more and donate on [Open Collective](https://opencollective.com/monachelle).
+
+I volunteer at [PONYS](http://www.ponys.unina.it/),
+a physics students' association promoting science in Naples, Italy.
+We work mainly on outreach, networking and professional development,
+organizing and participating at event online and offline.
+
+![PONYS at "Il Mattoncino" library](img/mattoncino.webp)
