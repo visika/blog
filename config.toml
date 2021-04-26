@@ -23,7 +23,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # in the front matter
 description = "Personal website"
 email = "mariano@mollo.me"
-favicon = '/favicon.ico'
+favicon = '/icons/ninja.svg'
 # Dark mode support
 # Supported value are :
 # - off
@@ -66,12 +66,19 @@ icon = "/icons/twitter.svg"
 name = "twitter"
 url = "https://twitter.com/mariano_mollo"
 
-# [[params.social]]
-# alt = "facebook icon"
-# blank = true
-# icon = "/icons/facebook.svg"
-# name = "facebook"
-# url = "https://facebook.com/"
+[[params.social]]
+alt = "soundcloud icon"
+blank = true
+icon = "/icons/soundcloud.svg"
+name = "soundcloud"
+url = "https://soundcloud.com/mariano-mollo"
+
+[[params.social]]
+alt = "spotify icon"
+blank = true
+icon = "/icons/spotify.svg"
+name = "spotify"
+url = "https://open.spotify.com/user/mariano.mollo"
 
 # Navigation bar
 [menu]
