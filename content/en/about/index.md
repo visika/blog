@@ -20,3 +20,8 @@ I build things in HTML and CSS; I don't fancy JS a lot.
 Check my [reading list](https://www.goodreads.com/user/show/28626037-mariano)
 and my [personal library](https://inventaire.io/inventory/visika);
 I give away many books I read.
+
+I volunteer at [Monachelle Community](https://www.monachelle.org),
+a common in the city of Pozzuoli, near Naples, Italy.
+I manage the full tech stack, from domain name registration to graphics design,
+from copywriting to social media management.
