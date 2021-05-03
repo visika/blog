@@ -9,7 +9,8 @@ I tinker with stuff and technology.
 Mostly FLOSS and decentralized services.
 Self-hosting a Mobilizon istance, [ammafa.events](http://ammafa.events),
 and a Nextcloud family server.
-Contact me if you'd like guidance configuring services for your family or your non-profit.
+Contact me if you'd like guidance configuring services for your family or your non-profit,
+or check the [listing](https://fiverr.com/white_haka).
 I know some Python; learning Fortran; sometimes read Clojure.
 Using Emacs.
 Appreciate spaced repetition.
