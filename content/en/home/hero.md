@@ -15,13 +15,17 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "Know more"
+  label = "About me"
 	# Primary color
 	primary = true
 
 # [[btn]]
 #   url = "#contact"
 #   label = 'Contact me'
+
+[[btn]]
+  url = "/portfolio"
+  label = "Portfolio"
 
 +++
 
