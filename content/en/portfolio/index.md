@@ -10,7 +10,7 @@ type = "blog"
 
 ### [Arcai](http://0281ab46e0c0438e8b9f114f1c4e8730.testing-url.ws/arcai/)
 
-![Landing page of *Arcai*](img/sito_arcai.png)
+![Landing page of *Arcai*](img/sito_arcai.jpg)
 
 ### [Startup Monachelle](https://startup.monachelle.org)
 
