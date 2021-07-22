@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# Mariano Mollo.
+# Mariano Mollo
 
 A minimalist website for my profile.
 
